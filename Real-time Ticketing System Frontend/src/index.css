@@ -1,0 +1,57 @@
+
+body{
+    background-color:rgba(100, 148, 237, 0.865) ;
+    
+    }
+    
+
+
+p{
+    font-size: larger;
+}
+
+h1{
+    text-align: center;
+}
+
+th, td{
+    border: 2px solid rgba(0, 0, 0, 0.18);
+    text-align: center;
+    padding: 1%;
+    width: 1%;
+    font-weight: bold;
+    font-size: larger;
+}
+
+
+
+.log-container {
+    width: 70%;
+    height: 250px;
+    overflow-y: auto;
+    border: 1px solid #ff0000;
+    border-radius: 3px;
+    font-size: larger;
+    background-color:rgba(255, 255, 0, 0.427);
+
+}
+.log-container:hover{
+    transition: background-color 0.5s ease;
+}
+
+.log-item {
+    margin: 5px 0;
+    padding: 5px;
+    border-bottom: 1px solid #ddd;
+}
+
+.errorTags {
+    color: red;
+}
+
+
+  
+  
+
+
+
