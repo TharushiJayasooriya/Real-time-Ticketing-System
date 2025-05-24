@@ -1,5 +1,5 @@
 
-#🎟️ Real-Time Event Ticketing System
+🎟️ Real-Time Event Ticketing System
 
 A high-performance, real-time ticketing platform that demonstrates robust concurrency handling, seamless full-stack integration, and real-world scalability. Built using Spring Boot, React.js, and MySQL, this system effectively simulates real-time ticket release and purchase processes using the Producer-Consumer Pattern.
 
